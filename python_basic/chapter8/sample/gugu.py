@@ -3,8 +3,8 @@
 for n in range(1, 10):  # 단 수가 밖에 존재.
 
     for m in range(1, 10):
-        print(f"n = {n}")
-        print(f"m = {m}")
+        # print(f"n = {n}")
+        # print(f"m = {m}")
 
         print(f'{n} x {m} = {n * m}')
 

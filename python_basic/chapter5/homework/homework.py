@@ -1,4 +1,7 @@
-# 1. 아래 배열에서 M 이 몇번 나오는지 출력하는 코드를 작성하시오
+# 1. 랜덤한 정수형 데이터를 가지는 배열 a에 대해 0보다 큰 요소를 리턴하는 코드를 작성하시오
+a = [1, 2, 3, 4, -2, 5, 6]
+
+# 2. 아래 배열에서 M 이 몇번 나오는지 출력하는 코드를 작성하시오
 data_list = ['Braund, Mr. Owen Harris',
              'Cumings, Mrs. John Bradley (Florence Briggs Thayer)',
              'Heikkinen, Miss. Laina',
@@ -29,6 +32,3 @@ data_list = ['Braund, Mr. Owen Harris',
              'Fortune, Mr. Charles Alexander',
              'Dwyer, Miss. Ellen "Nellie"',
              'Todoroff, Mr. Lalio']
-
-# 1. 랜덤한 정수형 데이터를 가지는 배열 a에 대해 각 요소의 값이 0보다 클 때 출력하는 코드를 작성하시오
-a = [1, 2, 3, 4, -2, 5, 6]
